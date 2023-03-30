@@ -76,7 +76,8 @@ endmodule
 
 ## TIMING DIAGRAM :
  ### Full adder
- ![Uploading full add timing.png…]()
+ ![full add timing](https://user-images.githubusercontent.com/121166390/228719866-4dbbfbda-b9fa-4299-b54b-f6367f7f3d47.png)
+
  ### Half adder
 ![half adder truth](https://user-images.githubusercontent.com/121166390/228719513-d6a9e89f-39da-4c97-985c-d7a861fd288a.png)
 
