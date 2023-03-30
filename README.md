@@ -29,7 +29,7 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 
 #### Figure -02 FULL ADDER 
 
-### Procedure
+## Procedure
 
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
@@ -64,18 +64,22 @@ endmodule
  and (c,a,b);
  endmodule
  ```
-## Output:
+## OUTPUT :
 
-### RTL Diagram :
- ## Full adder
-  ## Half adder :
+## RTL Diagram :
+ ### Full adder
+ ![full add rtl](https://user-images.githubusercontent.com/121166390/228719416-82d9d0f4-4d04-49c5-8f1c-33f0fad79bcf.png)
+
+ ### Half adder
  ![half add rtl](https://user-images.githubusercontent.com/121166390/228126948-fadb2b74-c199-4465-8872-bec944a7f896.png)
 
 
-### TIMING DIAGRAM :
- ## Full adder
+## TIMING DIAGRAM :
+ ### Full adder
  ![Uploading full add timing.png…]()
- ## Half adder
+ ### Half adder
+![half adder truth](https://user-images.githubusercontent.com/121166390/228719513-d6a9e89f-39da-4c97-985c-d7a861fd288a.png)
+
  
  
 
@@ -88,5 +92,5 @@ endmodule
 
 
 
-### Result:
+## RESULT :
 Therefore, half adder and full adder is verified
