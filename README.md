@@ -79,12 +79,9 @@ endmodule
  ![full add timing](https://user-images.githubusercontent.com/121166390/228719866-4dbbfbda-b9fa-4299-b54b-f6367f7f3d47.png)
 
  ### Half adder
-![half adder truth](https://user-images.githubusercontent.com/121166390/228719513-d6a9e89f-39da-4c97-985c-d7a861fd288a.png)
+![image](https://github.com/Thirukaalathessvarar-S/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/121166390/ff178890-e3e5-4110-a0b9-30e248fda884)
 
- 
- 
-
-### TRUTH TABLE :
+## TRUTH TABLE :
 ## Full adder
 ![full adder truth](https://user-images.githubusercontent.com/121166390/228127667-2a36743d-e1cd-4b75-b312-aa5b4820f7de.png)
 
